@@ -57,7 +57,8 @@ fed-diffusion-image-classification/
 ├── Cifar100_Resnet18_model_non_IID_noise_diffusion_compare.ipynb
 ├── requirements.txt
 └── README.md
-
+```
+---
 ## 📂 File Descriptions and Relation to the Paper
 
 ### 🔹 Diffusion Model Training (Generative Stage)
